@@ -1,6 +1,6 @@
 # Django Custom User
 
-[Link to Latest PR]()
+[Link to Latest PR](https://github.com/ticochuck/django_custom_user/pull/1)
 
 ## Description
 
